@@ -6,7 +6,7 @@ Task folders to carry out during AIFFEL Core course
 - 주의 : Flutter 프로젝트는 프로젝트 폴더를 업로드 합니다. 
 
 레포 구조: 
-
+```
 AIFFEL_quest_cr
 ├── MainQuest
 │   ├── Quest01
@@ -84,3 +84,5 @@ AIFFEL_quest_cr
 │   ├── Quest_C_28
 │   │   ├── .ipynb
 │   │   └── README.md
+
+```
