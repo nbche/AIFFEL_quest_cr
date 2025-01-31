@@ -3,18 +3,19 @@
   
 # 앱정보
 - 앱이름
- :Your Global Finance Team
+  : Your Global Finance Team
 
-- 시장, 마켓:
- : Shared Financial Service 라는 기존의 컨셉을 활용함.
- : 기존 시장과의 차별화는 AI 서비스를 이용하여 제공 서비스 비용을 낮추고, 업무를 자동화함, 비용대비 최적의 결과를 제공함
+- 시장, 마켓
+  : Shared Financial Service 라는 기존의 컨셉을 활용함.
+  : 기존 시장과의 차별화는 AI 서비스를 이용하여 제공 서비스 비용을 낮추고, 업무를 자동화함, 비용대비 최적의 결과를 제공함
  
-- 타겟: 
- : 해외 단독 법인 설립이 주저되는 중/소 (특히 IT) 기업
- : 기존 해외 법인의 서비스 비용 절감을 고민하는 중견 기업
+- 타겟
+  : 해외 단독 법인 설립이 주저되는 중/소 (특히 IT) 기업
+  : 기존 해외 법인의 서비스 비용 절감을 고민하는 중견 기업
     
 # 앱 구조도
  : 아래 PDF 파일 참조
+ 
  [AI Service Design_NB_31.01.2025.pdf](https://github.com/user-attachments/files/18620065/AI.Service.Design_NB_31.01.2025.pdf)
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
