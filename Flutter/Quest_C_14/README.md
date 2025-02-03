@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/06db0521-d1c9-4228-90bc-a992ca3eff96
 # 구현 영상 (플러터 앱 구현)
 [https://github.com/user-attachments/assets/06db0521-d1c9-4228-90bc-a992ca3eff96](https://github.com/user-attachments/assets/6f833550-1832-407a-b712-2ee425c08a46)
 
-# 플러터 Library 와 이미지 파일
+# 플러터 Library
 https://github.com/nbche/Flutter/blob/main/home.dart
 
 https://github.com/nbche/Flutter/blob/main/login.dart
