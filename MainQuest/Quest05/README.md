@@ -1,18 +1,21 @@
-# 플러터로 인공지능 서비스 만들기
+# 플러터로 인공지능 서비스 만들기  - 5분 일기장
 
 # 1. 기획 및 디자인
 - **앱 주제 선정 및 기본 기능 정의**
-    - 00
-    - 00 
+    - 주제: 핸드폰의 주요 기능인 카메라를 이용하여 일상의 기록 (일기) 를 남김
+    - 특징: 사진의 내용 (시간, 장소, 묘사) 을 AI 모델이 기록해 줌
+      
 - **정보 구조도**
-    - 00
-    - 00
+
+![Image](https://github.com/user-attachments/assets/30842346-d7cf-472b-ba9c-094d041d6d14)
+
 - **와이어프레임**
-    - 00
-    - 00
-- **프로토타이핑**
-    - 00
-    - 00
+
+![Image](https://github.com/user-attachments/assets/b2d285fb-f2a6-4cc1-8d63-3a2cf1329f32)
+
+- **Widget Tree**
+
+![Image](https://github.com/user-attachments/assets/5618a189-0c2e-404f-bfd0-f855c4eca5f6)
 
 # 2. 기본 기능 구현
 - **프로젝트 생성 및 기본 구조 설정**
