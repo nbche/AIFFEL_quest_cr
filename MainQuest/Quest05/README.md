@@ -50,7 +50,7 @@
     ![Image](https://github.com/user-attachments/assets/28383cce-73f8-452b-9f26-52abe4f6065e)
        
 # 6. Flutter 실구현 (화면 및 비디오)
-- 첨부 파일 참조
+- 파일 사이즈 제한으로 노션 페이지에 올리겠음
 
 
 # 회고(참고 링크 및 코드 개선)
