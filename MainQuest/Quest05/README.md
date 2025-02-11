@@ -7,11 +7,11 @@
       
 - **정보 구조도**
 
-![Image](https://github.com/user-attachments/assets/30842346-d7cf-472b-ba9c-094d041d6d14)
+![Image](https://github.com/user-attachments/assets/517bce9e-1b55-47c7-a1b6-3406dcf1500e)
 
 - **와이어프레임**
 
-![Image](https://github.com/user-attachments/assets/b2d285fb-f2a6-4cc1-8d63-3a2cf1329f32)
+![Image](https://github.com/user-attachments/assets/8f7cd94b-fb7a-475b-b92a-18fe5c09a224)
 
 - **Widget Tree**
 
