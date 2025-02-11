@@ -45,7 +45,7 @@
 
 # 5. API 및 외부 서비스 연동
  - **REST API 또는 외부 서비스 연동**
-    - Google Gemini API 를 통해 사진 이미지 내용 묘사함
+    - Google Gemini API 를 통해 사진 이미지 내용 묘사함 (페이지 하단 부분)
       
     ![Image](https://github.com/user-attachments/assets/28383cce-73f8-452b-9f26-52abe4f6065e)
        
