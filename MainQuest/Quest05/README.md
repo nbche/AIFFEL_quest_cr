@@ -51,6 +51,9 @@
        
 # 6. Flutter 실구현 (화면 및 비디오)
 - 파일 사이즈 제한으로 노션 페이지에 올리겠음
+  
+- Flutter file location: https://github.com/nbche/diary/tree/master/lib
+
 
 # 회고(참고 링크 및 코드 개선)
   
