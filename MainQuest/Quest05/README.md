@@ -7,23 +7,27 @@
       
 - **정보 구조도**
 
-![Image](https://github.com/user-attachments/assets/517bce9e-1b55-47c7-a1b6-3406dcf1500e)
+    ![Image](https://github.com/user-attachments/assets/517bce9e-1b55-47c7-a1b6-3406dcf1500e)
 
 - **와이어프레임**
 
-![Image](https://github.com/user-attachments/assets/8f7cd94b-fb7a-475b-b92a-18fe5c09a224)
+    ![Image](https://github.com/user-attachments/assets/8f7cd94b-fb7a-475b-b92a-18fe5c09a224)
 
-- **Widget Tree**
-
-![Image](https://github.com/user-attachments/assets/5618a189-0c2e-404f-bfd0-f855c4eca5f6)
 
 # 2. 기본 기능 구현
 - **프로젝트 생성 및 기본 구조 설정**
-    - 00
-    - 00
+    - Flutter Widget Tree 참조
+
+     ![Image](https://github.com/user-attachments/assets/5618a189-0c2e-404f-bfd0-f855c4eca5f6)
+      
 - **메인 페이지 UI 구현**
-    - 00
-    - 00
+   
+    ![Image](https://github.com/user-attachments/assets/b0562c4f-e652-4a2d-8505-2fb09731cd9d)
+  
+     : Appbar 에는 기능이 부여되어 있지 않음
+  
+     : Bottom navigation 을 통해 사용자는 페이지간의 이동을 하게됨
+  
 - **데이터 모델 클래스 정의**
     - 00
     - 00
@@ -33,8 +37,10 @@
     
 # 3. 네비게이션 및 데이터전달
 - **페이지 간 네비게이션 구현**
-    - 00
-    - 00
+    - 페이지간의 네비게이션은 Bottom Navigation Bar 를 이용함
+      
+    ![Image](https://github.com/user-attachments/assets/fc32eee3-4812-4daa-9609-3288a8739de7)
+    
 - **데이터 전달 메커니즘 구현**
     - 00
     - 00
@@ -44,8 +50,10 @@
   
 # 4. 고급 기능 통합
 - **디바이스 기능 (예: 카메라, 센서) 통합**
-    - 00
-    - 00
+    - 사진 촬영 및 갤러리에서 사진 업로드 기능 (Picture Page)
+      
+    ![Image](https://github.com/user-attachments/assets/5b1eec30-4f27-4c2e-9db3-213e3dc80302)
+  
 - **사용자 입력 처리 및 데이터 저장**
     - 00
     - 00
@@ -68,6 +76,11 @@
 
 
 # 회고(참고 링크 및 코드 개선)
-  -
-  -
+  - 사진을 묘사하는 Describe_Page 를 Picture_Page 의 하위페이지로 설정함으로써 기능 구현및 코드 생성에 애로사항이 있었음. 페이지의 구조 결정시 코더의 역량을 고려하여야 했음.
+  - 인공지능 채팅 프로그램을 이용하는 장/단점을 절감한 계기가 됨
+     장점: 주어진 과제를 시간의 지체없이 해결하려 함
+     단점: 코딩의 일부가 생략된 채로 내용을 전달함 (여러번 수정을 요청함에도 불구하고)
+     예시: List<Map<String, dynamic>> (제대로된 코딩), List> (Chat GPT 코딩)
+    
+          
   -
