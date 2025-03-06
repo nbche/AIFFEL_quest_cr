@@ -8,7 +8,8 @@
 5. Traning & Result analysis (Case 3. 추출층 가중치 동결 해졔)
 6. Traning & Result analysis (Case 4. 학습률 손실)
 7. Traning & Result analysis (Case 5. 가중치 손실)
-8. 결과 요약
+8. 모델 실행 결과 요약
+9. 플러터 앱 구현
 
 # 1. Data Prepration
 
@@ -1849,3 +1850,4 @@ Case 4. 학습률을 조정하는 경우 (step decay): 훈련 정확도 (99.03%)
 
 Case 5. 가중치 손실 (weight decay): 훈련 정확도 (99.34%), 검증 정확도 (92.20%), 테스트 정확도 (93.48%)
 
+# 9. 플러터 앱 구현
