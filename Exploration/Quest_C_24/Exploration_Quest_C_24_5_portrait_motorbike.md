@@ -355,7 +355,7 @@ plt.show()
 ![png](output_31_0.png)
     
 # 회고
-![image](https://github.com/user-attachments/assets/6870bc3b-e883-4033-812a-06acf5eb56f5)
+![Image](https://github.com/user-attachments/assets/7e6a06e2-c168-49d9-9e00-7b0ef773250f)
 
 실행 과정 중에 몇가지 이슈/문제점을 확인할 수 있었습니다. 
 1. 파란색 동그라미: 멀리서 오고 있는 자동차 이미지임. 해당 이미지 앞에도 자동차가 있는데 그걸 잡지 못하고 한대만 잡아냄. 
