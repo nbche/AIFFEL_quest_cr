@@ -1649,8 +1649,10 @@ print_images()
 
 
 # Step 9. 모델 성능 비교
-![Image](https://github.com/user-attachments/assets/bd4cca5f-b7fa-4b30-a481-9e24f3efa566)
+![Image](https://github.com/user-attachments/assets/25a3f852-fc29-41a2-bcc8-bd13b26011af)
 
 # Step 10. 회고
 - 3개 모델 훈련 결과상으로는 Encoder-Decoder 모델이 가장 높은 평가지수 점수를 내놓음
+- Unet 의 경우, GPU 한계로 인해 모델 실행의 어려움이 있었기에, 이미지 사이즈와 배치 사이즈 조정이 필요했음
+- 동일 데이터에 대한 모델별 민감도를 확인할 수 있는 프로젝트 였음
 
