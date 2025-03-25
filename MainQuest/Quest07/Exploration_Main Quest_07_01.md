@@ -1649,6 +1649,8 @@ print_images()
 
 
 # Step 9. 모델 성능 비교
+![Image](https://github.com/user-attachments/assets/bd4cca5f-b7fa-4b30-a481-9e24f3efa566)
 
 # Step 10. 회고
+- 3개 모델 훈련 결과상으로는 Encoder-Decoder 모델이 가장 높은 평가지수 점수를 내놓음
 
